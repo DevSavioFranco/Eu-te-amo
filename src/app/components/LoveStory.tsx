@@ -119,25 +119,25 @@ const moments = [
     {
       title: 'Nosso Primeiro Jantar',
       description: 'Quando fizemos pastel juntooos!',
-      image: 'public/img/janta.jpeg',
+      image: '/img/janta.jpeg',
       color: '#FF4B81',
     },
     {
       title: 'Carnaval juntos',
       description: 'Casal mais gay do mundo',
-      image: 'public/img/carnaval.jpeg',
+      image: '/img/carnaval.jpeg',
       color: '#9D4EDD',
     },
     {
       title: 'Festa da Isa',
       description: 'Te busuquei no aeroporto pela primeira vez',
-      image: 'public/img/isa.jpeg',
+      image: '/img/isa.jpeg',
       color: '#E63946',
     },
     {
       title: 'Dates no prédio',
       description: 'Uma para representar os varios dates que tivemos no prédio',
-      image: '/public/img/date.jpeg',
+      image: '/img/date.jpeg',
       color: '#FFD60A',
     },
   ];
