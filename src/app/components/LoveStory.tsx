@@ -119,25 +119,25 @@ const moments = [
     {
       title: 'Nosso Primeiro Jantar',
       description: 'Quando fizemos pastel juntooos!',
-      image: '/img/janta.jpeg',
+      image: 'public/img/janta.jpeg',
       color: '#FF4B81',
     },
     {
       title: 'Carnaval juntos',
       description: 'Casal mais gay do mundo',
-      image: '/img/carnaval.jpeg',
+      image: 'public/img/carnaval.jpeg',
       color: '#9D4EDD',
     },
     {
       title: 'Festa da Isa',
       description: 'Te busuquei no aeroporto pela primeira vez',
-      image: '/img/isa.jpeg',
+      image: 'public/img/isa.jpeg',
       color: '#E63946',
     },
     {
       title: 'Dates no prédio',
       description: 'Uma para representar os varios dates que tivemos no prédio',
-      image: '/img/date.jpeg',
+      image: '/public/img/date.jpeg',
       color: '#FFD60A',
     },
   ];
@@ -147,7 +147,7 @@ const moments = [
     { title: 'Foi assim', artist: 'Sotam', cover: '🎶', duration: '2:27' },
     { title: 'Escolhi Você', artist: 'Almar', cover: '🎵', duration: '2:12' },
     { title: 'Arerê', artist: 'Ivete Sangalo', cover: '💕', duration: '5:02' },
-    { title: 'Olha', artist: 'Maria Betnhânia', cover: '🎶', duration: '3:40' },
+    { title: 'Olha', artist: 'Maria Betnhânia', cover: '🎶', duration: '3:52' },
   ];
 
  const loveNotes = [
